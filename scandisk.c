@@ -424,10 +424,3 @@ int main(int argc, char** argv) {
     return 0;
 }
 
-
-
-
-
-    unmmap_file(image_buf, &fd);
-    return 0;
-}
